@@ -1,8 +1,8 @@
-# NASA Space Apps Challenge — বাংলা গাইডবুক
+# NASA Space Apps Challenge Bangladesh — বাংলা গাইডবুক
 
-এই গাইডবুকটি বাংলাদেশের বাংলা ভাষাভাষী তরুণ-তরুণী, শিক্ষার্থী ও উদ্ভাবকদের জন্য তৈরি—যাঁরা NASA Space Apps Challenge-এ অংশ নিতে আগ্রহী, কিন্তু কোথা থেকে শুরু করবেন, কীভাবে দল গড়বেন, data ব্যবহার করবেন বা project জমা দেবেন তা নিয়ে স্পষ্ট নির্দেশনা খুঁজছেন। অংশগ্রহণের পথটি সহজে বোঝাতে গাইডগুলো বাংলায় সাজানো হয়েছে; প্রয়োজনীয় technical term ও official নাম চেনার সুবিধায় কিছু English শব্দ রাখা হয়েছে।
+**NASA Space Apps Challenge Bangladesh** গাইডবুকটি বাংলাদেশি তরুণ-তরুণী, শিক্ষার্থী ও উদ্ভাবকদের জন্য—যাঁরা NASA Space Apps Challenge-এ অংশ নিতে চান এবং registration, challenge নির্বাচন, team formation, NASA open data, project তৈরি ও submission সম্পর্কে বাংলায় ধাপে ধাপে নির্দেশনা খুঁজছেন। এটি NASA-র official publication নয়; অংশগ্রহণের নিয়ম ও deadline সবসময় current-year official source-এ যাচাই করতে হবে।
 
-এখানে registration ও নিয়ম বোঝা থেকে শুরু করে challenge বাছাই, team planning, NASA data ও tools, project তৈরি, demo এবং submission পর্যন্ত ধাপে ধাপে সহায়তা পাবেন। লক্ষ্য হলো তথ্যের ভাষাগত বাধা কমিয়ে আরও বেশি বাংলাদেশি তরুণ উদ্ভাবককে আত্মবিশ্বাসের সঙ্গে অংশগ্রহণের প্রস্তুতি নিতে সাহায্য করা।
+এই বাংলা NASA hackathon গাইডে অংশগ্রহণের নিয়ম ও FAQ থেকে শুরু করে challenge বাছাই, দল গঠন, NASA open data ও tools, project planning, prototype, demo এবং final submission-এর প্রস্তুতি রয়েছে। গাইডগুলোর লক্ষ্য হলো ভাষাগত বাধা কমিয়ে আরও বাংলাদেশি তরুণ উদ্ভাবককে NASA Space Apps Challenge-এ আত্মবিশ্বাসের সঙ্গে অংশ নেওয়ার প্রস্তুতি দিতে সাহায্য করা।
 
 > **এটি community-created সহায়ক লাইব্রেরি; NASA-র official publication নয়।** Eligibility, schedule, team rules, challenge, AI/SI policy, judging, submission ও licence-এর ক্ষেত্রে অংশগ্রহণের বছরের official website, Participant FAQs, Terms এবং event guides-ই চূড়ান্ত। বছর উল্লেখ করা guide-কে অন্য edition-এর নিয়ম ধরে নেবেন না।
 
@@ -20,6 +20,15 @@
 8. [Project README template](<04-Build and Submit/Project README Template.md>)
 9. [Submission checklist](<04-Build and Submit/Project Submission Checklist.md>)
 10. [Pitch ও demo প্রস্তুতি](<04-Build and Submit/Project Pitch and Demo Guide.md>)
+
+## বাংলাদেশ থেকে অংশগ্রহণ
+
+বাংলাদেশ থেকে NASA Space Apps Challenge-এ অংশ নিতে চাইলে আগে current-year official event listing-এ Bangladesh-এর Local Event আছে কি না যাচাই করুন। Local Event না পেলে সেই বছরের নিয়মে Universal Event বা অন্য virtual participation option খোলা আছে কি না এবং eligibility কী—তা official FAQ ও registration page-এ মিলিয়ে দেখুন। কোনো নির্দিষ্ট বাংলাদেশি event আছে বলে এই গাইড নিশ্চয়তা দেয় না।
+
+- [বাংলাদেশ Participant Guide](<05-Participant Guides/Bangladesh Participant Guide.md>) — event যাচাই, বাংলাদেশ সময়, team খোঁজা, internet/device প্রস্তুতি ও event-day checklist।
+- [NASA Space Apps FAQ Bangla](<01-Getting Started/NASA Space Apps FAQ Bangla.md>) — registration, team, challenge, submission ও সাধারণ প্রশ্নোত্তর।
+- [Official NASA Space Apps website](https://www.spaceappschallenge.org/)
+- [Official Participant FAQs](https://www.spaceappschallenge.org/resources/participant-faqs/)
 
 ## 01 — Getting Started
 
