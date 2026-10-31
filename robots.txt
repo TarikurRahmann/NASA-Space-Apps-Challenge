@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://tarikurrahmann.github.io/NASA-Space-Apps-Challenge/sitemap.xml
