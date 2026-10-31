@@ -1,12 +1,12 @@
-# NASA Space Apps Challenge Bangladesh — বাংলা গাইডবুক
+# NASA Space Apps Challenge Bangladesh: বাংলা Participation Guide
 <p align="center">
   <img src="assets/images/bangla-space-apps-guide.svg" width="300" alt="Independent Space Apps Bangla guidebook badge">
 </p>
 
 
-**NASA Space Apps Challenge Bangladesh** গাইডবুকটি বাংলাদেশি তরুণ-তরুণী, শিক্ষার্থী ও উদ্ভাবকদের জন্য—যাঁরা NASA Space Apps Challenge-এ অংশ নিতে চান এবং registration, challenge নির্বাচন, team formation, NASA open data, project তৈরি ও submission সম্পর্কে বাংলায় ধাপে ধাপে নির্দেশনা খুঁজছেন। এটি NASA-র official publication নয়; অংশগ্রহণের নিয়ম ও deadline সবসময় current-year official source-এ যাচাই করতে হবে।
+**NASA Space Apps Challenge Bangladesh**-এ কীভাবে অংশ নেবেন? বাংলাদেশি তরুণ-তরুণী, শিক্ষার্থী ও উদ্ভাবকদের জন্য এই **বাংলা participation guide**-এ registration, challenge selection, team formation, NASA open data, project development, demo এবং submission-এর ধাপে ধাপে নির্দেশনা রয়েছে। NASA Space Apps Challenge-এ বাংলাদেশ থেকে যোগ দেওয়ার প্রস্তুতি, NASA hackathon-এর নিয়ম বোঝা, NASA data ব্যবহার এবং project জমার সহায়তা—সব গাইড এক জায়গায় সাজানো হয়েছে। এটি NASA-র official publication নয়; নিয়ম ও deadline সবসময় current-year official source-এ যাচাই করুন।
 
-এই বাংলা NASA hackathon গাইডে অংশগ্রহণের নিয়ম ও FAQ থেকে শুরু করে challenge বাছাই, দল গঠন, NASA open data ও tools, project planning, prototype, demo এবং final submission-এর প্রস্তুতি রয়েছে। গাইডগুলোর লক্ষ্য হলো ভাষাগত বাধা কমিয়ে আরও বাংলাদেশি তরুণ উদ্ভাবককে NASA Space Apps Challenge-এ আত্মবিশ্বাসের সঙ্গে অংশ নেওয়ার প্রস্তুতি দিতে সাহায্য করা।
+এই NASA Space Apps Bangla guidebook-এর লক্ষ্য হলো ভাষাগত বাধা কমিয়ে আরও বাংলাদেশি তরুণ উদ্ভাবককে NASA Space Apps hackathon-এ আত্মবিশ্বাসের সঙ্গে অংশগ্রহণের প্রস্তুতি নিতে সাহায্য করা।
 
 > **এটি community-created সহায়ক লাইব্রেরি; NASA-র official publication নয়।** Eligibility, schedule, team rules, challenge, AI/SI policy, judging, submission ও licence-এর ক্ষেত্রে অংশগ্রহণের বছরের official website, Participant FAQs, Terms এবং event guides-ই চূড়ান্ত। বছর উল্লেখ করা guide-কে অন্য edition-এর নিয়ম ধরে নেবেন না।
 >
