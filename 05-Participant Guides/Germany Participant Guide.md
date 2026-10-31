@@ -1,9 +1,4 @@
 # Germany Participant Guide
-![Earth observation from the International Space Station](../assets/images/earth-from-iss.jpg)
-
-*Illustrative image: [NASA/JSC](<https://images.nasa.gov/details/iss045e013851>). This independent guide is not endorsed by NASA.*
-
-
 ## Germany থেকে NASA Space Apps Challenge-এ অংশগ্রহণের প্রস্তুতি
 
 > **এটি Germany-তে থাকা participant-দের জন্য ব্যবহারিক সহায়ক গাইড—NASA-র official policy বা কোনো নির্দিষ্ট বছরের event announcement নয়।** Germany-তে কোনো Local Event হবে, কোন শহরে হবে, onsite/online format কী হবে, registration বা team rules কী—এসব প্রতি বছরের official event listing ও সংশ্লিষ্ট Local Event page-এ যাচাই করতে হবে। Listing-এ না দেখে কোনো city/event-কে official বলা যাবে না।

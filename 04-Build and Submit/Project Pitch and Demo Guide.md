@@ -1,9 +1,4 @@
 # Project Pitch and Demo Guide
-![Solar flare observed by NASA Solar Dynamics Observatory](../assets/images/solar-flare-sdo.jpg)
-
-*Illustrative image: [NASA/GSFC](<https://images.nasa.gov/details/GSFC_20171208_Archive_e001210>). This independent guide is not endorsed by NASA.*
-
-
 ## NASA Space Apps Challenge-এর জন্য project বোঝানো, demo সাজানো ও প্রশ্নের উত্তর
 
 > **এটি presentation প্রস্তুতির সহায়ক guide—NASA-র official judging rubric বা নির্দিষ্ট বছরের pitch-duration requirement নয়।** আপনার Local Event, Global Judging বা submission-এর জন্য নির্দিষ্ট সময়, format, media, language বা প্রশ্নোত্তরের নিয়ম থাকলে current-year event page, Project Submission Guide ও Judging & Awards Guide-ই অনুসরণ করুন।

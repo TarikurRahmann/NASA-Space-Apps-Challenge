@@ -1,9 +1,4 @@
 # Hackathon Weekend Planner
-![Skylab in Earth orbit](../assets/images/skylab-earth-orbit.jpg)
-
-*Illustrative image: [NASA/JSC](<https://images.nasa.gov/details/sl4-143-4707>). This independent guide is not endorsed by NASA.*
-
-
 ## NASA Space Apps Challenge-এর দুই দিনের কাজের সময়সূচি, milestone ও backup plan
 
 > **এটি team-এর planning template—NASA-র official event schedule নয়।** আপনার Local Event বা Universal Event-এর start/end time, challenge-work window, submission deadline, timezone, breaks এবং current-year rules আগে যাচাই করুন। নিচের সময়গুলো নমুনা; event-এর official সময়ের সঙ্গে মিলিয়ে নিন। Event ৪৮ ঘণ্টার কম/বেশি হলে phase-গুলো অনুপাতে বদলান।

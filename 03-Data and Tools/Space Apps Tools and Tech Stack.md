@@ -1,9 +1,4 @@
 # Space Apps Tools and Tech Stack
-![NASA A-Train Earth-observing satellite concept](../assets/images/earth-observation-satellites.jpg)
-
-*Illustrative image: [NASA/JPL](<https://images.nasa.gov/details/PIA03010>). This independent guide is not endorsed by NASA.*
-
-
 ## Mapping, data analysis, web app, visualization ও design-এর উপযোগী tool guide
 
 > **এটি tool বাছাইয়ের ব্যবহারিক guide; NASA-র official বা বাধ্যতামূলক tech stack নয়।** NASA Space Apps-এ কোনো নির্দিষ্ট programming language, framework বা design tool ব্যবহার করতেই হবে—এমন সাধারণ নিয়ম এখানে ধরে নেওয়া হয়নি। Challenge Statement, current-year Participant Terms, Project Submission Guide, data provider-এর documentation এবং licence-ই চূড়ান্ত।

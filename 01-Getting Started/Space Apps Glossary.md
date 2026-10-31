@@ -1,9 +1,4 @@
 # Space Apps Glossary
-![NASA A-Train Earth-observing satellite concept](../assets/images/earth-observation-satellites.jpg)
-
-*Illustrative image: [NASA/JPL](<https://images.nasa.gov/details/PIA03010>). This independent guide is not endorsed by NASA.*
-
-
 ## NASA Space Apps Challenge-এর প্রয়োজনীয় শব্দের বাংলা ব্যাখ্যা
 
 > **এটি একটি সহায়ক glossary; NASA-র official dictionary বা rulebook নয়।** একই শব্দের অর্থ discipline, dataset বা challenge অনুযায়ী বদলাতে পারে। Technical requirement, data definition, judging term ও legal meaning-এর ক্ষেত্রে সংশ্লিষ্ট বছরের official Challenge Statement, metadata, guide ও Terms-কে অগ্রাধিকার দিন।

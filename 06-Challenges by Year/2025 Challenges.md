@@ -1,9 +1,4 @@
 # NASA Space Apps Challenge 2025: প্রতিটি Challenge-এর বিস্তারিত বাংলা গাইড
-![Solar flare observed by NASA Solar Dynamics Observatory](../assets/images/solar-flare-sdo.jpg)
-
-*Illustrative image: [NASA/GSFC](<https://images.nasa.gov/details/GSFC_20171208_Archive_e001210>). This independent guide is not endorsed by NASA.*
-
-
 > **এটি কী:** NASA Space Apps Challenge 2025-এর অফিসিয়াল challenge তালিকায় থাকা ১৮টি numbered challenge এবং “Create Your Own Challenge” বিকল্পের বাংলা ব্যাখ্যা ও প্রকল্প-নির্দেশিকা।
 >
 > **তথ্যের সীমা:** challenge-এর নাম, মূল উদ্দেশ্য ও সংক্ষিপ্ত বক্তব্য NASA Space Apps-এর অফিসিয়াল ২০২৫ challenge তালিকার ভিত্তিতে লেখা। নিচের সম্ভাব্য feature, কাজের ধাপ, উদাহরণ ও সতর্কতার অনেকগুলো সম্পাদকীয়/শিক্ষামূলক পরামর্শ; এগুলোকে NASA-র বাধ্যতামূলক শর্ত, নির্দিষ্ট dataset, judging rubric বা বিজয়ী প্রকল্পের দাবি হিসেবে ধরবেন না। পূর্ণ statement ও Resources tab দেখতে প্রতিটি challenge-এর অফিসিয়াল পৃষ্ঠায় যান।

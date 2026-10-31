@@ -1,9 +1,4 @@
 # Challenge Selection Guide
-![NASA A-Train Earth-observing satellite concept](../assets/images/earth-observation-satellites.jpg)
-
-*Illustrative image: [NASA/JPL](<https://images.nasa.gov/details/PIA03010>). This independent guide is not endorsed by NASA.*
-
-
 ## NASA Space Apps Challenge-এর জন্য বাংলা Challenge বাছাই গাইড
 
 > **এটি NASA-র official scoring rubric নয়।** এই guide-এর প্রশ্ন, scorecard, weights, threshold ও উদাহরণগুলো একটি team-কে নিজের আগ্রহ, skill, সময় ও data access অনুযায়ী challenge তুলনা করতে সাহায্য করার planning tool। Challenge বাছাইয়ের আগে আপনার বছরের official challenge statement, participant rules, event schedule ও resources পড়ুন। Statement-এ থাকা আবশ্যকতা এই guide-এর চেয়ে অগ্রাধিকার পাবে।

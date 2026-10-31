@@ -1,9 +1,4 @@
 # NASA Space Apps Challenge 2027: তিন বছরের ধারা থেকে অনুমানভিত্তিক বাংলা Challenge Draft
-![Skylab in Earth orbit](../assets/images/skylab-earth-orbit.jpg)
-
-*Illustrative image: [NASA/JSC](<https://images.nasa.gov/details/sl4-143-4707>). This independent guide is not endorsed by NASA.*
-
-
 > ## গুরুত্বপূর্ণ: এটি NASA-র অফিসিয়াল ২০২৭ challenge list নয়
 >
 > এই নথি ২০২৪, ২০২৫ ও ২০২৬ সালের challenge-গুলোর পুনরাবৃত্ত বিষয় ও নতুন দিক বিশ্লেষণ করে তৈরি একটি **অনুমানভিত্তিক proposal**। নিচের ইংরেজি নাম, সমস্যা-বিবরণ, deliverable, confidence এবং প্রকল্পের ধারণা NASA ঘোষণা করেনি। এগুলোকে NASA-র official challenge, selection, judging rule বা event commitment হিসেবে উদ্ধৃত করবেন না।

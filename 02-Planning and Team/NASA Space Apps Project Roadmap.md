@@ -1,9 +1,4 @@
 # NASA Space Apps Project Roadmap
-![NASA A-Train Earth-observing satellite concept](../assets/images/earth-observation-satellites.jpg)
-
-*Illustrative image: [NASA/JPL](<https://images.nasa.gov/details/PIA03010>). This independent guide is not endorsed by NASA.*
-
-
 ## NASA Space Apps Challenge-এর জন্য বাংলা প্রকল্প-পরিকল্পনা
 
 > **এই নথির উদ্দেশ্য:** একটি challenge বেছে নেওয়া থেকে শুরু করে দলগতভাবে prototype তৈরি, পরীক্ষা, presentation এবং project submission পর্যন্ত কাজকে ধাপে ভাগ করে দেওয়া।

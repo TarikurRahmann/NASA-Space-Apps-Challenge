@@ -1,7 +1,7 @@
 # NASA Space Apps Challenge Bangladesh — বাংলা গাইডবুক
-![Earth observation from the International Space Station](assets/images/earth-from-iss.jpg)
-
-*Illustrative image: [NASA/JSC](<https://images.nasa.gov/details/iss045e013851>). This independent guide is not endorsed by NASA.*
+<p align="center">
+  <img src="assets/images/bangla-space-apps-guide.svg" width="300" alt="Independent Space Apps Bangla guidebook badge">
+</p>
 
 
 **NASA Space Apps Challenge Bangladesh** গাইডবুকটি বাংলাদেশি তরুণ-তরুণী, শিক্ষার্থী ও উদ্ভাবকদের জন্য—যাঁরা NASA Space Apps Challenge-এ অংশ নিতে চান এবং registration, challenge নির্বাচন, team formation, NASA open data, project তৈরি ও submission সম্পর্কে বাংলায় ধাপে ধাপে নির্দেশনা খুঁজছেন। এটি NASA-র official publication নয়; অংশগ্রহণের নিয়ম ও deadline সবসময় current-year official source-এ যাচাই করতে হবে।
@@ -10,7 +10,7 @@
 
 > **এটি community-created সহায়ক লাইব্রেরি; NASA-র official publication নয়।** Eligibility, schedule, team rules, challenge, AI/SI policy, judging, submission ও licence-এর ক্ষেত্রে অংশগ্রহণের বছরের official website, Participant FAQs, Terms এবং event guides-ই চূড়ান্ত। বছর উল্লেখ করা guide-কে অন্য edition-এর নিয়ম ধরে নেবেন না।
 >
-> NASA insignia/logotype এখানে ব্যবহার করা হয়নি: NASA-র brand guidance অনুযায়ী এগুলো protected এবং ভুল ব্যবহারে official endorsement-এর ধারণা হতে পারে। গাইডগুলোতে কেবল উৎস-উল্লেখসহ illustrative NASA imagery রাখা হয়েছে; এটি NASA-র অনুমোদন বোঝায় না। [NASA Images and Media Usage Guidelines](https://www.nasa.gov/nasa-brand-center/images-and-media/) দেখুন।
+> উপরের badge-টি এই community guidebook-এর নিজস্ব পরিচিতি—NASA-র logo বা official branding নয়। NASA-র ছবি ব্যবহার করলে guide-এ তার source credit দেওয়া হয়েছে এবং তা NASA endorsement বোঝায় না। [NASA Images and Media Usage Guidelines](https://www.nasa.gov/nasa-brand-center/images-and-media/) দেখুন।
 
 ## কোথা থেকে শুরু করবেন
 

@@ -1,9 +1,4 @@
 # [Project name]
-![Earth observation from the International Space Station](../assets/images/earth-from-iss.jpg)
-
-*Illustrative image: [NASA/JSC](<https://images.nasa.gov/details/iss045e013851>). This independent guide is not endorsed by NASA.*
-
-
 > **এক বাক্যে পরিচিতি:** [Project-টি কার জন্য, কোন সমস্যায়, কীভাবে সাহায্য করে—এক বাক্যে লিখুন।]
 
 [Project-এর সংক্ষিপ্ত পরিচিতি লিখুন। এটি NASA Space Apps Challenge-এর [year] edition-এর [challenge title]-এর জন্য তৈরি। এই project-টি [কাজের মূল পদ্ধতি] ব্যবহার করে [user/audience]-কে [উপকার/ফল] পেতে সাহায্য করে।]

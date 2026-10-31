@@ -1,9 +1,4 @@
 # NASA Space Apps FAQ Bangla
-![Earth observation from the International Space Station](../assets/images/earth-from-iss.jpg)
-
-*Illustrative image: [NASA/JSC](<https://images.nasa.gov/details/iss045e013851>). This independent guide is not endorsed by NASA.*
-
-
 ## Registration, team, event, project ও submission নিয়ে বাংলা প্রশ্নোত্তর
 
 > **এটি NASA-র official FAQ নয়।** NASA Space Apps Challenge-এর অংশগ্রহণকারীদের জন্য সহজ বাংলায় তৈরি সহায়ক প্রশ্নোত্তর। Registration, eligibility, event format, team limit, deadline, submission field, judging, award ও legal requirement বছরভেদে বদলাতে পারে। অংশগ্রহণের বছরের [Official Participant FAQs](https://www.spaceappschallenge.org/resources/participant-faqs/), [Participant Terms and Conditions](https://www.spaceappschallenge.org/legal/), event page এবং Participant Guides-ই চূড়ান্ত।

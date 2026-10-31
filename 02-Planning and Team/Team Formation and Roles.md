@@ -1,9 +1,4 @@
 # Team Formation and Roles
-![Skylab in Earth orbit](../assets/images/skylab-earth-orbit.jpg)
-
-*Illustrative image: [NASA/JSC](<https://images.nasa.gov/details/sl4-143-4707>). This independent guide is not endorsed by NASA.*
-
-
 ## NASA Space Apps Challenge-এর জন্য দল গঠন ও দায়িত্ব ভাগের বাংলা গাইড
 
 > **এটি NASA-র official team policy বা নির্দিষ্ট বছরের Team Formation Guide-এর বিকল্প নয়।** নিচের role, agreement, communication ও কাজ ভাগের পদ্ধতিগুলো ব্যবহারিক পরামর্শ। Team size, eligibility, event affiliation, team formation-এর সময়, website-এ সদস্য যোগ/বাদ দেওয়ার নিয়ম এবং judging-এর শর্ত আপনার অংশগ্রহণের বছরের official FAQ, Terms, Team Formation Guide ও Local Event page থেকে যাচাই করুন।

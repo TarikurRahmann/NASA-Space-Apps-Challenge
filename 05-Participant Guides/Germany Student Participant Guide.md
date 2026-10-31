@@ -1,9 +1,4 @@
 # Germany University Student Participant Guide
-![Skylab in Earth orbit](../assets/images/skylab-earth-orbit.jpg)
-
-*Illustrative image: [NASA/JSC](<https://images.nasa.gov/details/sl4-143-4707>). This independent guide is not endorsed by NASA.*
-
-
 ## Germany-তে বিশ্ববিদ্যালয়ে পড়া শিক্ষার্থীর জন্য NASA Space Apps Challenge পরিচিতি
 
 > **এটি Germany-তে থাকা university student-দের জন্য ব্যবহারিক সহায়ক গাইড।** Germany-তে থাকা বা বিশ্ববিদ্যালয়ের student হওয়া নিজে থেকেই কোনো নির্দিষ্ট Local Event, Universal Event, award বা judging stage-এর eligibility নিশ্চিত করে না। Participation-এর বছরের official eligibility, event affiliation, registration, age/consent, team ও submission rules দেখে সিদ্ধান্ত নিতে হবে।

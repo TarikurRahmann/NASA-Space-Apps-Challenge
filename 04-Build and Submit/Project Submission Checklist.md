@@ -1,9 +1,4 @@
 # Project Submission Checklist
-![Skylab in Earth orbit](../assets/images/skylab-earth-orbit.jpg)
-
-*Illustrative image: [NASA/JSC](<https://images.nasa.gov/details/sl4-143-4707>). This independent guide is not endorsed by NASA.*
-
-
 ## NASA Space Apps Challenge project জমা দেওয়ার আগে পূর্ণাঙ্গ যাচাই
 
 > **এটি team-এর final review checklist—NASA-র official submission form বা কোনো নির্দিষ্ট বছরের required-field list নয়।** কোন field, file, video, link, format, size limit ও deadline প্রযোজ্য তা আপনার বছরের Project Submission Guide, event page এবং team project page থেকে নিন। এই তালিকায় যেটি “ঐচ্ছিক/যদি প্রযোজ্য” বলা আছে, official guide না চাইলে সেটিকে বাধ্যতামূলক ধরে নেবেন না।
