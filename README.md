@@ -1,6 +1,8 @@
 # NASA Space Apps Challenge — বাংলা গাইডবুক
 
-NASA Space Apps Challenge-এ অংশগ্রহণ, পরিকল্পনা, data ও tools ব্যবহার, project তৈরি এবং submission-এর জন্য বাংলা গাইডের সূচিপত্র।
+এই গাইডবুকটি বাংলাদেশের বাংলা ভাষাভাষী তরুণ-তরুণী, শিক্ষার্থী ও উদ্ভাবকদের জন্য তৈরি—যাঁরা NASA Space Apps Challenge-এ অংশ নিতে আগ্রহী, কিন্তু কোথা থেকে শুরু করবেন, কীভাবে দল গড়বেন, data ব্যবহার করবেন বা project জমা দেবেন তা নিয়ে স্পষ্ট নির্দেশনা খুঁজছেন। অংশগ্রহণের পথটি সহজে বোঝাতে গাইডগুলো বাংলায় সাজানো হয়েছে; প্রয়োজনীয় technical term ও official নাম চেনার সুবিধায় কিছু English শব্দ রাখা হয়েছে।
+
+এখানে registration ও নিয়ম বোঝা থেকে শুরু করে challenge বাছাই, team planning, NASA data ও tools, project তৈরি, demo এবং submission পর্যন্ত ধাপে ধাপে সহায়তা পাবেন। লক্ষ্য হলো তথ্যের ভাষাগত বাধা কমিয়ে আরও বেশি বাংলাদেশি তরুণ উদ্ভাবককে আত্মবিশ্বাসের সঙ্গে অংশগ্রহণের প্রস্তুতি নিতে সাহায্য করা।
 
 > **এটি community-created সহায়ক লাইব্রেরি; NASA-র official publication নয়।** Eligibility, schedule, team rules, challenge, AI/SI policy, judging, submission ও licence-এর ক্ষেত্রে অংশগ্রহণের বছরের official website, Participant FAQs, Terms এবং event guides-ই চূড়ান্ত। বছর উল্লেখ করা guide-কে অন্য edition-এর নিয়ম ধরে নেবেন না।
 
@@ -76,4 +78,3 @@ Project documentation, final review, pitch ও demo।
 - Official rule বা deadline উদ্ধৃত করলে year ও official source link দিন।
 - কোনো ভুল, ভাঙা link বা outdated তথ্য পেলে সংশ্লিষ্ট source দেখে সংশোধনের প্রস্তাব দিন।
 - কোনো guide আইনি, immigration, medical বা emergency advice নয়; প্রয়োজন হলে সংশ্লিষ্ট official/qualified source দেখুন।
-
