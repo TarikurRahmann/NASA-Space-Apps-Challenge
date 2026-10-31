@@ -1,4 +1,8 @@
 # AI Tools Use and Disclosure
+![Solar flare observed by NASA Solar Dynamics Observatory](../assets/images/solar-flare-sdo.jpg)
+
+*Illustrative image: [NASA/GSFC](<https://images.nasa.gov/details/GSFC_20171208_Archive_e001210>). This independent guide is not endorsed by NASA.*
+
 
 ## NASA Space Apps Challenge-এ AI-সহায়ক কাজ, যাচাই ও disclosure-এর বাংলা গাইড
 

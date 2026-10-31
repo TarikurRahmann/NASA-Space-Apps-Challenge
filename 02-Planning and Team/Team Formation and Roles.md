@@ -1,4 +1,8 @@
 # Team Formation and Roles
+![Skylab in Earth orbit](../assets/images/skylab-earth-orbit.jpg)
+
+*Illustrative image: [NASA/JSC](<https://images.nasa.gov/details/sl4-143-4707>). This independent guide is not endorsed by NASA.*
+
 
 ## NASA Space Apps Challenge-এর জন্য দল গঠন ও দায়িত্ব ভাগের বাংলা গাইড
 

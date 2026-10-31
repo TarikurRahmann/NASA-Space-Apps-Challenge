@@ -1,4 +1,8 @@
 # NASA Space Apps Challenge 2026: প্রতিটি Challenge-এর বিস্তারিত বাংলা গাইড
+![NASA A-Train Earth-observing satellite concept](../assets/images/earth-observation-satellites.jpg)
+
+*Illustrative image: [NASA/JPL](<https://images.nasa.gov/details/PIA03010>). This independent guide is not endorsed by NASA.*
+
 
 > **নথির পরিধি:** NASA Space Apps Challenge-এর ২০২৬ challenge list-এ দেখানো ১৪টি challenge-এর বাংলা ব্যাখ্যা, সম্ভাব্য প্রকল্প-ধারণা, কাজের ধাপ, সতর্কতা এবং সাধারণ প্রস্তুতি।
 >

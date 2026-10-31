@@ -1,4 +1,8 @@
 # NASA Space Apps Challenge: নিয়ম, নিয়মাবলি ও অংশগ্রহণের পূর্ণাঙ্গ বাংলা গাইড
+![Skylab in Earth orbit](../assets/images/skylab-earth-orbit.jpg)
+
+*Illustrative image: [NASA/JSC](<https://images.nasa.gov/details/sl4-143-4707>). This independent guide is not endorsed by NASA.*
+
 
 > **গুরুত্বপূর্ণ:** এই নথি NASA Space Apps Challenge-এ অংশ নেওয়ার জন্য একটি ব্যবহারিক বাংলা নির্দেশিকা। নিচে **২০২৬ সালের অফিসিয়াল FAQ ও Participant Terms and Conditions-এ যাচাই করা নিয়ম** স্পষ্টভাবে চিহ্নিত করা হয়েছে। এগুলোকে ভবিষ্যৎ বছরের স্থায়ী নিয়ম ধরে নেবেন না। আপনার অংশগ্রহণের বছরের অফিসিয়াল Challenge page, Participant FAQs, Terms & Conditions, স্থানীয় ইভেন্টের নির্দেশনা এবং Participant Guides-ই চূড়ান্ত।
 >

@@ -1,4 +1,8 @@
 # NASA Space Apps Challenge 2024: সম্পূর্ণ বাংলা গাইড
+![Earth observation from the International Space Station](../assets/images/earth-from-iss.jpg)
+
+*Illustrative image: [NASA/JSC](<https://images.nasa.gov/details/iss045e013851>). This independent guide is not endorsed by NASA.*
+
 
 > **নথির পরিধি:** NASA Space Apps Challenge 2024-এর ২০টি নম্বরযুক্ত challenge এবং অতিরিক্ত **Create Your Own Challenge** বিকল্প। এখানে প্রতিটি challenge-এর অফিসিয়াল মূল বক্তব্য বাংলায় ব্যাখ্যা করা হয়েছে; এরপর আলাদা করে সম্ভাব্য সমাধানের ধারণা, কাজের ধাপ, দলীয় ভূমিকা ও যাচাইয়ের পরামর্শ দেওয়া হয়েছে।
 >

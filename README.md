@@ -1,10 +1,16 @@
 # NASA Space Apps Challenge Bangladesh — বাংলা গাইডবুক
+![Earth observation from the International Space Station](assets/images/earth-from-iss.jpg)
+
+*Illustrative image: [NASA/JSC](<https://images.nasa.gov/details/iss045e013851>). This independent guide is not endorsed by NASA.*
+
 
 **NASA Space Apps Challenge Bangladesh** গাইডবুকটি বাংলাদেশি তরুণ-তরুণী, শিক্ষার্থী ও উদ্ভাবকদের জন্য—যাঁরা NASA Space Apps Challenge-এ অংশ নিতে চান এবং registration, challenge নির্বাচন, team formation, NASA open data, project তৈরি ও submission সম্পর্কে বাংলায় ধাপে ধাপে নির্দেশনা খুঁজছেন। এটি NASA-র official publication নয়; অংশগ্রহণের নিয়ম ও deadline সবসময় current-year official source-এ যাচাই করতে হবে।
 
 এই বাংলা NASA hackathon গাইডে অংশগ্রহণের নিয়ম ও FAQ থেকে শুরু করে challenge বাছাই, দল গঠন, NASA open data ও tools, project planning, prototype, demo এবং final submission-এর প্রস্তুতি রয়েছে। গাইডগুলোর লক্ষ্য হলো ভাষাগত বাধা কমিয়ে আরও বাংলাদেশি তরুণ উদ্ভাবককে NASA Space Apps Challenge-এ আত্মবিশ্বাসের সঙ্গে অংশ নেওয়ার প্রস্তুতি দিতে সাহায্য করা।
 
 > **এটি community-created সহায়ক লাইব্রেরি; NASA-র official publication নয়।** Eligibility, schedule, team rules, challenge, AI/SI policy, judging, submission ও licence-এর ক্ষেত্রে অংশগ্রহণের বছরের official website, Participant FAQs, Terms এবং event guides-ই চূড়ান্ত। বছর উল্লেখ করা guide-কে অন্য edition-এর নিয়ম ধরে নেবেন না।
+>
+> NASA insignia/logotype এখানে ব্যবহার করা হয়নি: NASA-র brand guidance অনুযায়ী এগুলো protected এবং ভুল ব্যবহারে official endorsement-এর ধারণা হতে পারে। গাইডগুলোতে কেবল উৎস-উল্লেখসহ illustrative NASA imagery রাখা হয়েছে; এটি NASA-র অনুমোদন বোঝায় না। [NASA Images and Media Usage Guidelines](https://www.nasa.gov/nasa-brand-center/images-and-media/) দেখুন।
 
 ## কোথা থেকে শুরু করবেন
 

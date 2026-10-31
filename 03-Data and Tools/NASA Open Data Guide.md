@@ -1,4 +1,8 @@
 # NASA Open Data Guide
+![NASA A-Train Earth-observing satellite concept](../assets/images/earth-observation-satellites.jpg)
+
+*Illustrative image: [NASA/JPL](<https://images.nasa.gov/details/PIA03010>). This independent guide is not endorsed by NASA.*
+
 
 ## NASA-র data খোঁজা, বোঝা, ব্যবহার ও citation করার বাংলা পরিচিতি
 

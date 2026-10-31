@@ -1,4 +1,8 @@
 # Data Citation and Open Source Licensing
+![Earth observation from the International Space Station](../assets/images/earth-from-iss.jpg)
+
+*Illustrative image: [NASA/JSC](<https://images.nasa.gov/details/iss045e013851>). This independent guide is not endorsed by NASA.*
+
 
 ## Dataset, code, image ও library-এর credit এবং licence নথিভুক্ত করার বাংলা গাইড
 

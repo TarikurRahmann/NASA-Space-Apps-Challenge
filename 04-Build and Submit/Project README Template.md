@@ -1,4 +1,8 @@
 # [Project name]
+![Earth observation from the International Space Station](../assets/images/earth-from-iss.jpg)
+
+*Illustrative image: [NASA/JSC](<https://images.nasa.gov/details/iss045e013851>). This independent guide is not endorsed by NASA.*
+
 
 > **এক বাক্যে পরিচিতি:** [Project-টি কার জন্য, কোন সমস্যায়, কীভাবে সাহায্য করে—এক বাক্যে লিখুন।]
 

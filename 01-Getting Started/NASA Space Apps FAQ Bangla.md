@@ -1,4 +1,8 @@
 # NASA Space Apps FAQ Bangla
+![Earth observation from the International Space Station](../assets/images/earth-from-iss.jpg)
+
+*Illustrative image: [NASA/JSC](<https://images.nasa.gov/details/iss045e013851>). This independent guide is not endorsed by NASA.*
+
 
 ## Registration, team, event, project ও submission নিয়ে বাংলা প্রশ্নোত্তর
 
