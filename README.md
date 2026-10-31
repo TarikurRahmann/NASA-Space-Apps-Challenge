@@ -4,9 +4,15 @@
 </p>
 
 
-**NASA Space Apps Challenge Bangladesh**-এ কীভাবে অংশ নেবেন? বাংলাদেশি তরুণ-তরুণী, শিক্ষার্থী ও উদ্ভাবকদের জন্য এই **বাংলা participation guide**-এ registration, challenge selection, team formation, NASA open data, project development, demo এবং submission-এর ধাপে ধাপে নির্দেশনা রয়েছে। NASA Space Apps Challenge-এ বাংলাদেশ থেকে যোগ দেওয়ার প্রস্তুতি, NASA hackathon-এর নিয়ম বোঝা, NASA data ব্যবহার এবং project জমার সহায়তা—সব গাইড এক জায়গায় সাজানো হয়েছে। এটি NASA-র official publication নয়; নিয়ম ও deadline সবসময় current-year official source-এ যাচাই করুন।
+**মহাকাশের তথ্য দিয়ে পৃথিবীর সমস্যা সমাধানের ভাবনা—আপনারও হতে পারে NASA Space Apps Challenge-এ অংশ নেওয়ার শুরু।** বাংলাদেশি তরুণ-তরুণী, শিক্ষার্থী ও উদ্ভাবকদের জন্য এই বাংলা guidebook-এ NASA Space Apps Challenge-এ অংশগ্রহণের প্রস্তুতি, registration, challenge নির্বাচন, দল গঠন, NASA open data, project তৈরি, demo ও submission—সব ধাপ সহজভাবে সাজানো হয়েছে।
 
-এই NASA Space Apps Bangla guidebook-এর লক্ষ্য হলো ভাষাগত বাধা কমিয়ে আরও বাংলাদেশি তরুণ উদ্ভাবককে NASA Space Apps hackathon-এ আত্মবিশ্বাসের সঙ্গে অংশগ্রহণের প্রস্তুতি নিতে সাহায্য করা।
+## এই গাইড কীভাবে তৈরি
+
+আমি NASA Space Apps Challenge-এ অংশ নিয়েছি—এমন দাবি করছি না। Official challenge statement, participant guide, FAQ, terms ও NASA data documentation নিজে পড়ে ও বিশ্লেষণ করে এই resource library তৈরি করেছি। পাশাপাশি, আগে অংশ নেওয়া participant-দের শেয়ার করা অভিজ্ঞতা ও শেখা বিষয় থেকে প্রাসঙ্গিক তথ্য নিয়েছি; সেগুলো official rule-এর বিকল্প নয়।
+
+লেখা গুছানো, অনুবাদ, outline ও editing-এ GitHub Copilot এবং Claude AI-এর সহায়তা নিয়েছি। AI-কে official source হিসেবে ব্যবহার করিনি: নিয়ম, deadline, data ও licence-সংক্রান্ত তথ্য official source-এ যাচাই করা উচিত। এটি community-created সহায়ক লাইব্রেরি—NASA-র official বা endorsed publication নয়।
+
+এই NASA Space Apps Bangladesh guidebook-এর লক্ষ্য হলো ভাষাগত বাধা কমিয়ে আরও বাংলাদেশি তরুণ উদ্ভাবককে NASA Space Apps hackathon-এ আত্মবিশ্বাসের সঙ্গে অংশগ্রহণের প্রস্তুতি নিতে সাহায্য করা।
 
 > **এটি community-created সহায়ক লাইব্রেরি; NASA-র official publication নয়।** Eligibility, schedule, team rules, challenge, AI/SI policy, judging, submission ও licence-এর ক্ষেত্রে অংশগ্রহণের বছরের official website, Participant FAQs, Terms এবং event guides-ই চূড়ান্ত। বছর উল্লেখ করা guide-কে অন্য edition-এর নিয়ম ধরে নেবেন না।
 >
